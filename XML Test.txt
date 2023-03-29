@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <name>Oleksandra</name>
+  <surname>Shyychuk</surname>
+  <age>29</age>
+  <university>HAW</university>
+  <subjects>Math</subjects>
+  <subjects>English</subjects>
+  <subjects>German</subjects>
+  <teachers>
+    <name>Math teacher</name>
+  </teachers>
+  <teachers>
+    <name>English teacher</name>
+  </teachers>
+  <teachers>
+    <name>German teacher</name>
+  </teachers>
+  <exams>
+    <name>Math exam</name>
+  </exams>
+  <exams>
+    <name>English exam</name>
+  </exams>
+  <exams>
+    <name>German exam</name>
+  </exams>
+</root>

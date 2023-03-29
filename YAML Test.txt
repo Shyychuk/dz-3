@@ -1,0 +1,17 @@
+---
+name: Oleksandra
+surname: Shyychuk
+age: '29'
+university: HAW
+subjects:
+- Math
+- English
+- German
+teachers:
+- name: Math teacher
+- name: English teacher
+- name: German teacher
+exams:
+- name: Math exam
+- name: English exam
+- name: German exam
