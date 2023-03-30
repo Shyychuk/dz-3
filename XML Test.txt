@@ -8,21 +8,33 @@
   <subjects>English</subjects>
   <subjects>German</subjects>
   <teachers>
-    <name>Math teacher</name>
+    <subject>Math</subject>
+    <name>Antonina Ivanivna</name>
+    <careerStart>1999</careerStart>
   </teachers>
   <teachers>
-    <name>English teacher</name>
+    <subject>English</subject>
+    <name>Ann Gordon</name>
+    <careerStart>2022</careerStart>
   </teachers>
   <teachers>
-    <name>German teacher</name>
+    <subject>Math</subject>
+    <name>Lilia Bevsa</name>
+    <careerStart>1977</careerStart>
   </teachers>
   <exams>
     <name>Math exam</name>
+    <date>11.01.2023</date>
+    <complexity>hard</complexity>
   </exams>
   <exams>
     <name>English exam</name>
+    <date>11.01.2023</date>
+    <complexity>middle</complexity>
   </exams>
   <exams>
     <name>German exam</name>
+    <date>11.01.2023</date>
+    <complexity>very hard</complexity>
   </exams>
 </root>

@@ -10,24 +10,36 @@
   ],
   "teachers": [
     {
-      "name": "Math teacher"
+      "subject": "Math",
+      "name": "Antonina Ivanivna",
+      "careerStart": "1999"
     },
     {
-      "name": "English teacher"
+      "subject": "English",
+      "name": "Ann Gordon",
+      "careerStart": "2022"
     },
     {
-      "name": "German teacher"
+      "subject": "Math",
+      "name": "Lilia Bevsa",
+      "careerStart": "1977"
     }
   ],
   "exams": [
     {
-      "name": "Math exam"
+      "name": "Math exam",
+      "date": "11.01.2023",
+      "complexity": "hard"
     },
     {
-      "name": "English exam"
+      "name": "English exam",
+      "date": "11.01.2023",
+      "complexity": "middle"
     },
     {
-      "name": "German exam"
+      "name": "German exam",
+      "date": "11.01.2023",
+      "complexity": "very hard"
     }
   ]
 }

@@ -8,10 +8,23 @@ subjects:
 - English
 - German
 teachers:
-- name: Math teacher
-- name: English teacher
-- name: German teacher
+- subject: Math
+  name: Antonina Ivanivna
+  careerStart: '1999'
+- subject: English
+  name: Ann Gordon
+  careerStart: '2022'
+- subject: Math
+  name: Lilia Bevsa
+  careerStart: '1977'
 exams:
 - name: Math exam
+  date: 11.01.2023
+  complexity: hard
 - name: English exam
+  date: 11.01.2023
+  complexity: middle
 - name: German exam
+  date: 11.01.2023
+  complexity: very hard
+
